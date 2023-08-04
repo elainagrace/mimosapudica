@@ -2,7 +2,7 @@
 
 
 <param ve-config 
-       title="Mimosa Pudica: A Question of Living"
+       title="Mimosa Pudica: Questions of Science and Life"
        source-image="https://upload.wikimedia.org/wikipedia/commons/8/88/Mimosa_pudica_kian-siau-chhau.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/8/88/Mimosa_pudica_kian-siau-chhau.jpg"
        author="authors"
