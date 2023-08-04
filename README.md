@@ -66,6 +66,24 @@ label="Mimosa Pudica: Native Distribution vs. Current Distribution"
 description="map by CABI Data"
 license="CC BY-NC-SA 4.0">
 
+### A Diversity of Knowledge Systems
+Integrating herbalism into medical and scientific knowledge systems means tending to the origins of plant-people relationships. In academic contexts, the oral histories and relationships necessary to produce and perpetuate herbal knowledge within communities have historically been devalued. Critical interventions by scholars in Black studies, American history, women’s studies, and Indigenous studies have brought new iterations of these relations explicitly into the academy, while illuminating their ongoing presence. Still, lab-based studies and historical compendiums produced by European colonizers remain sources more commonly cited to gain “legitimacy” on plants. Herbalists today cite a range of sources on plants like the mimosa pudica, considering scientific, historical, social, and culturally-specific accounts of plant usage. The Earth Medicine Institute, for example, cites mimosa pudica’s common names: from China (Han xiu cao) to Borneo (Sulinit). By bringing together a more “global” profile of mimosa, they are seeking a comprehensive overview that classifies mimosa not only by its family (fabaceae) but also by its category (herbs that calm the spirit) and properties (sweet astringent, slightly cold).
+<param ve-image 
+url="Screenshot 2023-08-04 at 6.07.14 PM.png"
+label="Mimosa branches decorating a woman's hat in Petit Courrier des Dames, 1829" 
+description="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
+https://www.europeana.eu/item/90402/RP_P_2005_515_61?lang=en"
+license="Public Domain"
+fit="-254,15,1274,1063">
+
+Across herbalist traditions, various parts of the mimosa pudica are used, including its leaves, seeds, flowers, and roots (Ahmad). Although its original habitat was in South America, mimosa has become “naturalized” throughout tropical and subtropical India (Ahmad), leading to its now-traditional usage in Ayurveda under the name lajjalu. With the rise of online herbalist communities, mimosa pudica is lauded on the Internet for its Ayurvedic uses, which range from cosmetic, digestive, endocrine, and neurological to psychospiritual. However, appropriation within online herbalist communities means that treatment information is sometimes shared without cultural context. While non-commercialized community herbalist approaches generally emphasize cultivating relationships with plants in order to understand their properties, this tradition has been disrupted by the mechanization and medicalization of plants. Long (and ongoing) traditions of European bioprospecting and the reduction of plants into compounds have left many people with the impression that plants could work as if they were “naturally-occurring” pills (Whitt, Laurelyn. Science, Colonialism, and Indigenous Peoples : The Cultural Politics of Law and Knowledge, Cambridge University Press, 2009.) 
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Mimosa_pudica_MHNT.BOT.2004.0.0.495.jpg"
+label="Mimosa Seed Pods" 
+description="Mimosa Seed Pods"
+license="Public Domain"
+fit="cover">
+
 ### Ongoing Tensions
 Questions of knowledge legitimacy and cultural context are therefore critical to any investigation of the mimosa pudica. The tensions between these factors have animated contemporary art, literature, and herbalism--yet they have not yet significantly impacted the scientific discourse about mimosa pudica. As a plant who has so deeply impacted ideas about what it means to be alive and intelligent, the mimosa offers an opportunity for critical reflection on the ways that socio-cultural concepts influence the scientific construction of facts.
 <param ve-video vid="E_q2ZcEEw1Y">
