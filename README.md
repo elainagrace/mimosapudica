@@ -38,7 +38,7 @@ fit="-254,15,1274,1063">
 ### Encoding and Embodying Empire
 By the mid 19th century, the Wardian case was in regular usage by institutions like Kew, allowing them to more easily transport botanical samples (Wardian case article). With this technology, flowering plants like the mimosa could be made useful to colonial science in Europe; they were also being added to a growing repertoire of flowers-as-messages, or cultural icons. Les Fleurs Animées, an 1847 French book of botanical stories for women, offers an example of how class, race, and gender were encoded into European relationships with the mimosa pudica. Illustrations of mimosa within the book were meant to be both instructive and fanciful-- the “sensitive plant” is personified and shown shrinking away from “unwomanly” triggers: tobacco smoke, and garden creatures. The plant’s responsive movements are embodied in the woman’s flight. A particular set of European cultural values that aligned with capitalist visions of white womanhood were not only projected onto plant life, but imagined to be a part of its material embodiment and sensibility.
 <param ve-entity eid="Q2779805" title="Wardian case">
-<param ve-iframe src="https://archive.org/details/flowerspersonif00gimbgoog/page/n411/mode/2up?q=sensitive">
+<param ve-iframe src="https://archive.org/details/lesfleursanime02gran/page/12/mode/2up?q=sensitive">
 
 
 <param ve-video vid="BoAetCE_vmY">
