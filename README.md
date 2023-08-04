@@ -18,11 +18,11 @@ url="10.2307_community.18567884-1.jpg"
 label="The Sensitive Plant, by Maria Edgar, 1808" 
 description="Watercolor by Maria Edgar"
 license="Open Access"
-fit="cover">
+fit="-525,-77,2627,2192">
 <param ve-image 
 url="Screenshot 2023-08-04 at 5.45.58 PM.png"
 label="Emma Hamilton in an attitude towards a mimosa plant, causing it to demonstrate sensibility. Stipple engraving by R. Earlom, 1789, after G. Romney" 
 description="engraving by R. Earlom"
 license="CC BY 4.0"
-fit="cover">
+fit="-307,-16,1540,1243">
 
