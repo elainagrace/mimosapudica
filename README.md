@@ -32,7 +32,8 @@ url="Screenshot 2023-08-04 at 6.07.14 PM.png"
 label="Mimosa branches decorating a woman's hat in Petit Courrier des Dames, 1829" 
 description="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
 https://www.europeana.eu/item/90402/RP_P_2005_515_61?lang=en"
-license="Public Domain"
+license="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
+https://www.europeana.eu/item/90402/RP_P_2005_515_61?lang=en"
 fit="-254,15,1274,1063">
 
 ### Encoding and Embodying Empire
