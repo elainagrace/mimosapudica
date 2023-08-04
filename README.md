@@ -12,7 +12,7 @@
 Mimosa Pudica etc
 
 ### Figuring Femininity
-19th century European depictions of womanhood were entangled with the plant matter that traveling botanists were extracting from the colonies. Depictions of gender could be reinforced by projecting social conventions onto newly-introduced plants, without overt political invocations. The mimosa, having had both scientific figures and artists figure it as responsive and sensitive, was thus used to normalize ideas about femininity. Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and mimosa has been called “a symbol of modern womanhood” for its depiction of “the nurturing power of the female touch." [^ref#1] As Edgar’s figure reaches out to touch the mimosa, viewers can see the sensitivity of both the woman and the potted mimosa plant; critically, one also notices their docility. A few decades prior, a late 18th century stipple engraving entitled “Sensibility” shows Emma Hamilton reaching towards a potted mimosa plant, even as it closes its leaves. Both images play on a femininity that balances separation and adjacency to the natural world.
+19th century European depictions of womanhood were entangled with the plant matter that traveling botanists were extracting from the colonies. Depictions of gender could be reinforced by projecting social conventions onto newly-introduced plants, without overt political invocations. The mimosa, having had both scientific figures and artists figure it as responsive and sensitive, was thus used to normalize ideas about femininity. Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and mimosa has been called “a symbol of modern womanhood” for its depiction of “the nurturing power of the female touch." [^1] As Edgar’s figure reaches out to touch the mimosa, viewers can see the sensitivity of both the woman and the potted mimosa plant; critically, one also notices their docility. A few decades prior, a late 18th century stipple engraving entitled “Sensibility” shows Emma Hamilton reaching towards a potted mimosa plant, even as it closes its leaves. Both images play on a femininity that balances separation and adjacency to the natural world.
 <param ve-image 
 url="10.2307_community.18567884-1.jpg"
 label="The Sensitive Plant, by Maria Edgar, 1808" 
@@ -33,7 +33,7 @@ label="Petit Courrier des Dames, 20 May 1829, No. 639: Modes de Longchamps..."
 description="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
 https://www.europeana.eu/item/90402/RP_P_2005_515_61?lang=en"
 license="Public Domain"
-fit="cover">
+fit="-254,15,1274,1063">
 
 ### References
-[^ref#1] “Maria Edgar: The Sensitive Plan.” The Metropolitan Museum of Art, 1 Jan. 1970, www.metmuseum.org/art/collection/search/10838. 
+[^1] “Maria Edgar: The Sensitive Plan.” The Metropolitan Museum of Art, 1 Jan. 1970, www.metmuseum.org/art/collection/search/10838. 
