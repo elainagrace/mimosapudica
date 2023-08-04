@@ -2,7 +2,7 @@
 
 
 <param ve-config 
-       title="Mimosa Pudica: Questions of Science and Life"
+       title="Mimosa Pudica: Meanings and Movements"
        source-image="https://upload.wikimedia.org/wikipedia/commons/8/88/Mimosa_pudica_kian-siau-chhau.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/8/88/Mimosa_pudica_kian-siau-chhau.jpg"
        author="authors"
@@ -76,7 +76,7 @@ license="Public Domain"
 fit="295,57,2843,2372">
 
 ### Ongoing Tensions
-Questions of knowledge legitimacy and cultural context are therefore critical to any investigation of the mimosa pudica. The tensions between these factors have animated contemporary art, literature, and herbalism--yet they have not yet significantly impacted the scientific discourse about mimosa pudica. As a plant who has so deeply impacted ideas about what it means to be alive and intelligent, the mimosa offers an opportunity for critical reflection on the ways that socio-cultural concepts influence the scientific construction of facts.
+Questions of knowledge legitimacy and cultural context are therefore critical to any investigation of the mimosa pudica. The tensions between these factors have animated contemporary art, literature, and herbalism--yet they have not yet significantly impacted the scientific discourse about mimosa pudica. As a plant who has so deeply impacted ideas about what it means to be alive and intelligent, the mimosa offers an opportunity for critical reflection on the ways that socio-cultural concepts influence the scientific construction of fact.
 <param ve-video vid="E_q2ZcEEw1Y">
 
 
