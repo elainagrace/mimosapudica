@@ -38,11 +38,15 @@ fit="-254,15,1274,1063">
 ### Encoding and Embodying Empire
 By the mid 19th century, the Wardian case was in regular usage by institutions like Kew, allowing them to more easily transport botanical samples (Wardian case article). With this technology, flowering plants like the mimosa could be made useful to colonial science in Europe; they were also being added to a growing repertoire of flowers-as-messages, or cultural icons. Les Fleurs Animées, an 1847 French book of botanical stories for women, offers an example of how class, race, and gender were encoded into European relationships with the mimosa pudica. Illustrations of mimosa within the book were meant to be both instructive and fanciful-- the “sensitive plant” is personified and shown shrinking away from “unwomanly” triggers: tobacco smoke, and garden creatures. The plant’s responsive movements are embodied in the woman’s flight. A particular set of European cultural values that aligned with capitalist visions of white womanhood were not only projected onto plant life, but imagined to be a part of its material embodiment and sensibility.
 <param ve-entity eid="Q2779805" title="Wardian case">
-<param ve-iframe src="https://archive.org/details/lesfleursanime02gran/page/12/mode/2up?q=sensitive">
+<param ve-iframe src="https://archive.org/details/lesfleursanime02gran/page/12/mode/2up">
+
+With Nehemiah Cleaveland’s 1849 translation of Les Fleurs Animées into English, wider audiences could access J.J. Grandville’s illustrations and stories of flowers come to life. [^2] Flowers within, such as the Sunflower, were made to embody not only projections of human traits and desires, but also exotification. The collected imagery of mimosa within Les Fleurs Animées was used to argue that the “beauties of the empire” were fond of being compared with the sensitive plant. Considering that the mimosa had been unknown to Europe only 3 centuries prior, the development of its cultural perception as a marker of femininity and high class must be considered critically. The mimosa’s ability to respond to stimuli may have been figured as a disruption to European perceptions of plant life, but was used to solidify hierarchies of race, class, and gender.
+<param ve-iframe src="https://archive.org/details/flowerspersonif00gimbgoog/page/n438/mode/1up">
 
 
 <param ve-video vid="BoAetCE_vmY">
 
 
 ### References
-[^1] “Maria Edgar: The Sensitive Plant.” The Metropolitan Museum of Art, 1 Jan. 1970, www.metmuseum.org/art/collection/search/10838. 
+[^1] “Maria Edgar: The Sensitive Plant.” The Metropolitan Museum of Art, www.metmuseum.org/art/collection/search/10838. 
+[^2] “J. J. Grandville’s Illustrations from The Flowers Personified (1849).” The Public Domain Review. https://publicdomainreview.org/collection/the-flowers-personified-1847/
