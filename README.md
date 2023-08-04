@@ -48,10 +48,23 @@ With Nehemiah Cleaveland’s 1849 translation of _Les Fleurs Animées_ into Engl
 These historical contexts, particularly their entanglements with class, race, and gender, have drastically influenced European cultural relationships with mimosa today. Mimosa pudica is contemporarily available as either a houseplant or supplement in Europe, but it has also taken on particular cultural connotations. Consider that its Swedish name (Kruidje roer me niet) has come to colloquially refer to an overly sensitive or touchy person. A diversity of relationships with mimosa pudica exist today, shaped by legacies of capitalism, experimentation, and colonialism. From mimosa’s commercialization as a supplement, to its continued usage in Ayurveda, as well as current propositions to consider the mimosa plant as a mechanism to expand health care in Brazil and Mesoamerica (Ahmad).
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/4/4a/EB1911_-_Leguminosae_-_Fig._3.—Branch_with_two_leaves_of_the_Sensitive_Plant_%28Mimosa_pudica%29.jpg"
-label="The term 'Kruidje roer me niet' reflects the mimosa plant's movement away from negative stimuli" 
+label="The term 'Kruidje roer me niet' reflects the mimosa plant's movement away from negative stimuli." 
 description="Mimosa leaves closing"
 license="Public Domain"
-fit="cover">
+fit="-90,-93,579,467">
+
+Although mimosa is a plant that never took on a mainstream medicinal context in Europe, its presence (made possible through colonial botany) served to advance debates about what it meant to be alive. That this debate was occurring in conjunction with ongoing developments to racial and gendered hierarchies in colonial contexts is not coincidence, but an indication of the ways that popular culture and scientific fact have influenced one another. The WHO’s present-day guideline for “developing countries” to use their natural resources in order to meet health care needs offers a discordant reflection of Linneaus’ own hope that Sweden’s economy might stabilize with further knowledge of Swedish natural resources. [^#3] This framing fails to adequately grapple with the histories of exploitation and expropriation of resources from South America by imperialist countries that directly led to Brazil being considered a “developing country” by international standards. 
+<param ve-compare curtain 
+	compare="true"
+url="https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg"
+label="Apollo and Daphne" 
+description="sculpture by Gian Lorenzo Bernini"
+license="CC BY-SA 4.0">
+<param ve-compare 
+url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Gianlorenzo_bernini%2C_apollo_e_adfne%2C_marmo%2C_1622-25%2C_03.jpg"
+label="Apollo and Daphne" 
+description="sculpture by Gian Lorenzo Bernini"
+license="CC BY-SA 4.0">
 
 <param ve-video vid="BoAetCE_vmY">
 
@@ -59,3 +72,4 @@ fit="cover">
 ### References
 [^1] “Maria Edgar: The Sensitive Plant.” The Metropolitan Museum of Art, www.metmuseum.org/art/collection/search/10838. 
 [^2] “J. J. Grandville’s Illustrations from The Flowers Personified (1849).” The Public Domain Review. https://publicdomainreview.org/collection/the-flowers-personified-1847/
+[^#3] (Ahmad, WHO Traditional Medicine Strategy 2014-2023) 
