@@ -73,7 +73,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Mimosa_pudica_L._%28AM_
 label="Mimosa Pudica specimen from New Zealand's Auckland Museum Herbarium" 
 description="Mimosa Herbarium specimen"
 license="Public Domain"
-fit="cover">
+fit="-1565,448,7827,6529">
 
 Across herbalist traditions, various parts of the mimosa pudica are used, including its leaves, seeds, flowers, and roots (Ahmad). Although its original habitat was in South America, mimosa has become “naturalized” throughout tropical and subtropical India (Ahmad), leading to its now-traditional usage in Ayurveda under the name lajjalu. With the rise of online herbalist communities, mimosa pudica is lauded on the Internet for its Ayurvedic uses, which range from cosmetic, digestive, endocrine, and neurological to psychospiritual. However, appropriation within online herbalist communities means that treatment information is sometimes shared without cultural context. While non-commercialized community herbalist approaches generally emphasize cultivating relationships with plants in order to understand their properties, this tradition has been disrupted by the mechanization and medicalization of plants. Long (and ongoing) traditions of European bioprospecting and the reduction of plants into compounds have left many people with the impression that plants could work as if they were “naturally-occurring” pills (Whitt, Laurelyn. Science, Colonialism, and Indigenous Peoples : The Cultural Politics of Law and Knowledge, Cambridge University Press, 2009.) 
 <param ve-image 
