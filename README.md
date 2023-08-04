@@ -28,7 +28,7 @@ fit="-307,-16,1540,1243">
 
 Visual representations of beauty, sensitivity, and class that use mimosa plants show us how the mimosa’s cultural associations in Europe were entangled, from the start, with its scientific perceptions. Far from being separate realms, science influenced the European public’s ideas of what the mimosa was. In French fashion magazine Petit Courrier des Dames’ May 1829 issue, mimosa leaves and branches were advertised as a potential accessory for muslin and tulle dresses. As mimosa grew poorly in European outdoor climes, these fragments of mimosa would have been a challenging acquisition for most women. The association between European women and mimosa plants remained within the contexts of empire--particularly because of its class associations, rarity, and scientific notoriety.
 <param ve-image 
-url="10.2307_community.18567884-1.jpg"
+url="Screenshot 2023-08-04 at 6.07.14 PM.png"
 label="Petit Courrier des Dames, 20 May 1829, No. 639: Modes de Longchamps..." 
 description="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
 https://www.europeana.eu/item/90402/RP_P_2005_515_61?lang=en"
