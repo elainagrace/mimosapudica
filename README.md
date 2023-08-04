@@ -29,11 +29,20 @@ fit="-307,-16,1540,1243">
 Visual representations of beauty, sensitivity, and class that use mimosa plants show us how the mimosa’s cultural associations in Europe were entangled, from the start, with its scientific perceptions. Far from being separate realms, science influenced the European public’s ideas of what the mimosa was. In French fashion magazine Petit Courrier des Dames’ May 1829 issue, mimosa leaves and branches were advertised as a potential accessory for muslin and tulle dresses. As mimosa grew poorly in European outdoor climes, these fragments of mimosa would have been a challenging acquisition for most women. The association between European women and mimosa plants remained within the contexts of empire--particularly because of its class associations, rarity, and scientific notoriety.
 <param ve-image 
 url="Screenshot 2023-08-04 at 6.07.14 PM.png"
-label="Petit Courrier des Dames, 20 May 1829, No. 639: Modes de Longchamps..." 
+label="Mimosa branches decorating a woman's hat in Petit Courrier des Dames, 1829" 
 description="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
 https://www.europeana.eu/item/90402/RP_P_2005_515_61?lang=en"
 license="Public Domain"
 fit="-254,15,1274,1063">
 
+### Encoding and Embodying Empire
+By the mid 19th century, the Wardian case was in regular usage by institutions like Kew, allowing them to more easily transport botanical samples (Wardian case article). With this technology, flowering plants like the mimosa could be made useful to colonial science in Europe; they were also being added to a growing repertoire of flowers-as-messages, or cultural icons. Les Fleurs Animées, an 1847 French book of botanical stories for women, offers an example of how class, race, and gender were encoded into European relationships with the mimosa pudica. Illustrations of mimosa within the book were meant to be both instructive and fanciful-- the “sensitive plant” is personified and shown shrinking away from “unwomanly” triggers: tobacco smoke, and garden creatures. The plant’s responsive movements are embodied in the woman’s flight. A particular set of European cultural values that aligned with capitalist visions of white womanhood were not only projected onto plant life, but imagined to be a part of its material embodiment and sensibility.
+<param ve-entity eid="Q2779805" title="Wardian case">
+<param ve-iframe src="https://archive.org/details/flowerspersonif00gimbgoog/page/n411/mode/2up?q=sensitive">
+
+
+<param ve-video vid="BoAetCE_vmY">
+
+
 ### References
-[^1] “Maria Edgar: The Sensitive Plan.” The Metropolitan Museum of Art, 1 Jan. 1970, www.metmuseum.org/art/collection/search/10838. 
+[^1] “Maria Edgar: The Sensitive Plant.” The Metropolitan Museum of Art, 1 Jan. 1970, www.metmuseum.org/art/collection/search/10838. 
