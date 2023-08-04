@@ -4,8 +4,8 @@
 <param ve-config 
        title="Mimosa Pudica: A Question of Living"
        source-image="https://upload.wikimedia.org/wikipedia/commons/8/88/Mimosa_pudica_kian-siau-chhau.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/f/f6/Kudzu_graveyard_%2851748%29.jpg"
-       author="names"
+       banner="https://upload.wikimedia.org/wikipedia/commons/8/88/Mimosa_pudica_kian-siau-chhau.jpg"
+       author="authors"
        layout="vertical">
 
 ### Introduction
