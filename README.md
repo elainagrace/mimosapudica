@@ -63,12 +63,12 @@ license="CC BY-NC-SA 4.0">
 <param ve-compare 
 url="distribution_map-2.png"
 label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
-description="map by CABI data"
+description="map by CABI Data"
 license="CC BY-NC-SA 4.0">
 
 ### Ongoing Tensions
 Questions of knowledge legitimacy and cultural context are therefore critical to any investigation of the mimosa pudica. The tensions between these factors have animated contemporary art, literature, and herbalism--yet they have not yet significantly impacted the scientific discourse about mimosa pudica. As a plant who has so deeply impacted ideas about what it means to be alive and intelligent, the mimosa offers an opportunity for critical reflection on the ways that socio-cultural concepts influence the scientific construction of facts.
-<param ve-video vid="BoAetCE_vmY">
+<param ve-video vid="E_q2ZcEEw1Y">
 
 
 ### References
