@@ -10,3 +10,7 @@
 
 ### Introduction
 Mimosa Pudica etc
+
+### Figuring Femininity
+19th century European depictions of womanhood were entangled with the plant matter that traveling botanists were extracting from the colonies. Depictions of gender could be reinforced by projecting social conventions onto newly-introduced plants, without overt political invocations. The mimosa, having had both scientific figures and artists figure it as responsive and sensitive, was thus used to normalize ideas about femininity. Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and mimosa has been called “a symbol of modern womanhood” for its depiction of “the nurturing power of the female touch” (Met). As Edgar’s figure reaches out to touch the mimosa, viewers can see the sensitivity of both the woman and the potted mimosa plant; critically, one also notices their docility. A few decades prior, a late 18th century stipple engraving entitled “Sensibility” shows Emma Hamilton reaching towards a potted mimosa plant, even as it closes its leaves. Both images play on a femininity that balances separation and adjacency to the natural world.
+
