@@ -53,16 +53,16 @@ description="Mimosa leaves closing"
 license="Public Domain"
 fit="-90,-93,579,467">
 
-Although mimosa is a plant that never took on a mainstream medicinal context in Europe, its presence (made possible through colonial botany) served to advance debates about what it meant to be alive. That this debate was occurring in conjunction with ongoing developments to racial and gendered hierarchies in colonial contexts is not coincidence, but an indication of the ways that popular culture and scientific fact have influenced one another. The WHO’s present-day guideline for “developing countries” to use their natural resources in order to meet health care needs offers a discordant reflection of Linneaus’ own hope that Sweden’s economy might stabilize with further knowledge of Swedish natural resources. [^#3] This framing fails to adequately grapple with the histories of exploitation and expropriation of resources from South America by imperialist countries that directly led to Brazil being considered a “developing country” by international standards. 
+Although mimosa is a plant that never took on a mainstream medicinal context in Europe, its presence (made possible through colonial botany) served to advance debates about what it meant to be alive. That this debate was occurring in conjunction with ongoing developments to racial and gendered hierarchies in colonial contexts is not coincidence, but an indication of the ways that popular culture and scientific fact have influenced one another. The WHO’s present-day guideline for “developing countries” to use their natural resources in order to meet health care needs offers a discordant reflection of Linneaus’ own hope that Sweden’s economy might stabilize with further knowledge of Swedish natural resources. [^3] This framing fails to adequately grapple with the histories of exploitation and expropriation of resources from South America by imperialist countries that directly led to Brazil being considered a “developing country” by international standards. 
 <param ve-compare curtain 
 	compare="true"
 url="distribution_map-3.png"
-label="Mimosa Pudica: Native Distribution" 
+label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
 description="map by CABI Data"
 license="CC BY-NC-SA 4.0">
 <param ve-compare 
 url="distribution_map-2.png"
-label="Mimosa Pudica: Current Distribution" 
+label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
 description="map by CABI data"
 license="CC BY-NC-SA 4.0">
 
@@ -74,4 +74,4 @@ Questions of knowledge legitimacy and cultural context are therefore critical to
 ### References
 [^1] “Maria Edgar: The Sensitive Plant.” The Metropolitan Museum of Art, www.metmuseum.org/art/collection/search/10838. 
 [^2] “J. J. Grandville’s Illustrations from The Flowers Personified (1849).” The Public Domain Review. https://publicdomainreview.org/collection/the-flowers-personified-1847/
-[^#3] (Ahmad, WHO Traditional Medicine Strategy 2014-2023) 
+[^3] (Ahmad, WHO Traditional Medicine Strategy 2014-2023) 
