@@ -8,7 +8,7 @@
        author="Elaina Foley, Sabrina Freidus, and Jordan Norviel"
        layout="vertical">
 
-### Introduction
+### (Re)disvovering the Sensitive Plant
 The Sensitive Plant, or mimosa pudica, is in the legume family, possessing pods accompanied by leaves that fold at night, or when disturbed. Herbalists and botanists were fascinated by these movements, and in order to study the plant, pudica was burned with acid, cut, and struck by microscopist Robert Hooke in 1661 early trials. Others followed in Hooke’s footsteps: the French botanist René-Louiche Desfontaines took the Sensitive Plant on a horse drawn carriage ride in Paris to see how it would react. Humans were, and continue to be, fascinated by this plant’s ability to move. We, too, are fascinated by this plant–the video you see was taken by us. When we found specimens of Mimosa pudica at the US Botanical Garden in Washington, DC, we could resist the urge to watch the subject of our research perform, to watch the movement that has spurred centuries of wonder questioning.
 <param ve-video vid="XRg3kZYT_WA">
 
