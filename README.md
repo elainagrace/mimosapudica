@@ -61,6 +61,7 @@ url="distribution_map-3.png"
 label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
 description="map by CABI Data"
 license="CC BY-NA-SA 4.0">
+
 <param ve-compare 
 url="distribution_map-2.png"
 label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
