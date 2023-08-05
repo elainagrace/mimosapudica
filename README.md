@@ -5,7 +5,7 @@
        title="The Sensitive Plant: Meaning and Movement"
        source-image="https://upload.wikimedia.org/wikipedia/commons/8/88/Mimosa_pudica_kian-siau-chhau.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/8/88/Mimosa_pudica_kian-siau-chhau.jpg"
-       author="authors"
+       author="Elaina Foley, Sabrina Freidus, and Jordan Norviel"
        layout="vertical">
 
 ### Introduction
