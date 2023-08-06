@@ -43,7 +43,7 @@ Paragraph about René-Louiche Desfontaines and Lamrack
 <param ve-entity eid="Q82122" title="Jean-Baptiste Lamarck">
 
 Paragraph about Gagliano and current mimosa scholarship
-<param ve-image url="Gagliano Experimental Design.png"
+<param ve-image url="Gagliano Experimental Design.png">
 
 
 ### Figuring Femininity
