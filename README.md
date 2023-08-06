@@ -32,6 +32,14 @@ The Sensitive Plant, despite its influence in European botany, is native to trop
 label="Watercolor from Nathaniel Lord Britton's unpublished popular flora of Puerto Rico, Flora Borinqueña, 1918-1934"
 description="Attributed to the New York Botanical Garden">
 
+The fascinating movement of the Sensitive Plant has made it a popular study for botanists for centuries. From the scholarship we were able to uncover in our research, it seems that the first experiments done on the Mimosa were performed by the Royal Society in 1661. This study of the plant was performed at the request of King Charles II. Members of the Royal Society focused light on the plant, cut off leaflets, and poured nitric acid on the plant. They found that the intensity of the plant’s reaction was proportional to the strength of each stimulus, and they theorized that a “liquor” constantly circulates in the plant, akin to circulating blood in a human. Upon stimulation, the liquor moves, and the leaflets close. In 1757, John Hill experimented with the plant, and he claimed that light, rather than heat or moisture causes the leaflets to close and droop. In the late 18th century, Jean-Jaques d’Ortous de Marian, a French natural philosopher, also conducted experiments on the Sensitive Plant. He exposed the plants to constant darkness and concluded that the daily opening and closing of the leaves continued even in darkness.
+<param ve-iframe src="https://archive.org/details/mobot31753000817897/page/XI/mode/2up">
+
+Paragraph about Desfontaines and Lamrack 
+
+Paragraph about Gagliano and current mimosa scholarship
+
+
 ### Figuring Femininity
 19th century European depictions of womanhood were entangled with the plant matter that traveling botanists were extracting from the colonies. Depictions of gender could be reinforced by projecting social conventions onto newly-introduced plants, without overt political invocations. The mimosa, having had both scientific figures and artists figure it as responsive and sensitive, was thus used to normalize ideas about femininity. Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and mimosa has been called “a symbol of modern womanhood” for its depiction of “the nurturing power of the female touch." [^ref1] As Edgar’s figure reaches out to touch the mimosa, viewers can see the sensitivity of both the woman and the potted mimosa plant; critically, one also notices their docility. A few decades prior, a late 18th century stipple engraving entitled “Sensibility” shows Emma Hamilton reaching towards a potted mimosa plant, even as it closes its leaves. Both images play on a femininity that balances separation and adjacency to the natural world.
 <param ve-image 
