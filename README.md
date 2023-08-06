@@ -40,7 +40,6 @@ The fascinating movement of the Sensitive Plant has made it a popular study for 
 
 Paragraph about René-Louiche Desfontaines and Lamrack 
 
-<param ve-entity eid="Q545953" title="René-Louiche Desfontaines">
 <param ve-entity eid="Q82122" title="Jean-Baptiste Lamarck">
 
 Paragraph about Gagliano and current mimosa scholarship
