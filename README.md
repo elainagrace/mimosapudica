@@ -108,8 +108,3 @@ fit="295,57,2843,2372">
 ### Ongoing Tensions
 Questions of knowledge legitimacy and cultural context are therefore critical to any investigation of the mimosa pudica. The tensions between these factors have animated contemporary art, literature, and herbalism--yet they have not yet significantly impacted the scientific discourse about mimosa pudica. As a plant who has so deeply impacted ideas about what it means to be alive and intelligent, the mimosa offers an opportunity for critical reflection on the ways that socio-cultural concepts influence the scientific construction of fact.
 <param ve-video vid="E_q2ZcEEw1Y">
-
-### References
-[^1] “Maria Edgar: The Sensitive Plant.” The Metropolitan Museum of Art, www.metmuseum.org/art/collection/search/10838. 
-[^2] “J. J. Grandville’s Illustrations from The Flowers Personified (1849).” The Public Domain Review. https://publicdomainreview.org/collection/the-flowers-personified-1847/
-[^3] (Ahmad, WHO Traditional Medicine Strategy 2014-2023) 
