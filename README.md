@@ -140,15 +140,15 @@ Questions of knowledge legitimacy and cultural context are therefore critical to
 
 
 ### References
-[^1] Mabey, Richard. 2016. The Cabaret of Plants : Forty Thousand Years of Plant Life and the Human Imagination. First American edition. New York, N.Y.: W.W. Norton & Company.
-[^2] Webster, Charles. “The Recognition of Plant Sensitivity by English Botanists in the Seventeeth Century.” Isis 57, no. 1 (1966): 5–23. http://www.jstor.org/stable/228687.
-[^3] Stefano Mancuso, The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior, (New York: Atria Books, 2018).
-[^4] “Mimosa Pudica.” GISD. Accessed August 7, 2023. http://www.iucngisd.org/gisd/species.php?sc=1002. 
-[^5] Parker, C. 2022. “Mimosa Pudica (sensitive Plant).” CABI Compendium CABI Compendium. https://doi.org/10.1079/cabicompendium.34202.
-[^6] Shteir, Ann B. 2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
-[^7] Acosta, Cristóbal, and Garcia de Orta. 1578. Tractado de las drogas, y medicinas de las Indias Orientales, con sus plantas debuxadas al biuo por Christoual Acosta ... En el qual se verifica mucho de lo que escriuio el doctor Garcia de Orta .. Burgos: M. de Victoria.
-[^8] Webster, Charles. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeenth Century.” Isis 57 (1): 5.
-[^9] Shteir, Ann B. 2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
-[^10] Giglioni, Guido. 2018. “Touch Me Not.” Early Science and Medicine 23 (5): 420–43. https://doi.org/10.1163/15733823-02356P02.
+[^1]: Mabey, Richard. 2016. The Cabaret of Plants : Forty Thousand Years of Plant Life and the Human Imagination. First American edition. New York, N.Y.: W.W. Norton & Company.
+[^2]: Webster, Charles. “The Recognition of Plant Sensitivity by English Botanists in the Seventeeth Century.” Isis 57, no. 1 (1966): 5–23. http://www.jstor.org/stable/228687.
+[^3]: Stefano Mancuso, The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior, (New York: Atria Books, 2018).
+[^4]: “Mimosa Pudica.” GISD. Accessed August 7, 2023. http://www.iucngisd.org/gisd/species.php?sc=1002. 
+[^5]: Parker, C. 2022. “Mimosa Pudica (sensitive Plant).” CABI Compendium CABI Compendium. https://doi.org/10.1079/cabicompendium.34202.
+[^6]: Shteir, Ann B. 2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^7]: Acosta, Cristóbal, and Garcia de Orta. 1578. Tractado de las drogas, y medicinas de las Indias Orientales, con sus plantas debuxadas al biuo por Christoual Acosta ... En el qual se verifica mucho de lo que escriuio el doctor Garcia de Orta .. Burgos: M. de Victoria.
+[^8]: Webster, Charles. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeenth Century.” Isis 57 (1): 5.
+[^9]: Shteir, Ann B. 2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^10]L Giglioni, Guido. 2018. “Touch Me Not.” Early Science and Medicine 23 (5): 420–43. https://doi.org/10.1163/15733823-02356P02.
 
 [^ref#] “Maria Edgar: The Sensitive Plant.” The Metropolitan Museum of Art, www.metmuseum.org/art/collection/search/10838. 
