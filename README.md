@@ -26,7 +26,7 @@ While today this plant is commonly known as the Sensitive Plant, or by its Linna
 <param ve-entity eid="Q2841074" title="Gerard's Herbal">
 <param ve-entity eid="Q123885" title="Royal Society">
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
-<param ve-entity eid="Q13300" title="Nahautl"
+<param ve-entity eid="Q13300" title="Nahautl">
 
 Mimosa pudica’s influence on Europe, strengthened through literary, scientific, and artistic representations, has been both philosophical and scientific. Herbal uses of this plant were rarely recorded in Europe, whereas in the plant’s home region, South America, many other uses have existed. By tracking perceptions of the mimosa throughout European scientific and popular work, this story considers how bioprospecting and economic botany created culturally-specific habits of engagement with the plant world.  Rather than flatten distinct and diverse knowledge systems relating to mimosa, we have emphasized the ways that these knowledge systems remain vibrant/present, and are being influenced by economic contexts even today. Where contemporary scholarship surrounding the Mimosa pudica has emphasized the plant’s ability to demonstrate plant intelligence and memory, a larger historical narrative of the plant explored here highlights how this very vitality gives way to experimentation, personification, and even violence.
 <param ve-image url="IMG_8801.jpeg"
