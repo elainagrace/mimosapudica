@@ -147,6 +147,16 @@ label="Theophrastus"
 license="CC BY-SA 2.5">
 
 When John Layfield first encountered the Sensitive Plant in Puerto Rico in the late 16th century, he directly acknowledged how this plant challenges Hellenistic philosophy: “It hath a property, which confoundeth my understanding, and perhaps will seem strange in the way of the Philosophers, who have denied every part of sense to my plant; yet this certainly seemeth to have feeling.” Many botanists attempted to come up with mechanical explanations for the movement of this plant, especially under the influence of Rene Descartes, a prominent philospher and scientist, who popularized the idea that all nature and organisms are machines. Descartes’ ideas of mechanism made it possible to explain plant movement “in terms of physical causes reducible to matter and movement,” avoiding the idea that plants could have feelings. The Royal Society, in 1661, conducted experiments on the Sensitive Plant, theorizing that the circulation of some kind of sap allowed the plant to move. A century later, botanists were still grappling with whether or not the Sensitive Plant could feel. Abbe de Vallemont, a French scientist, declared that the “Sensitive Plant has no more sense than a cabbage,” demonstrating the maintained prevalence of Hellenistic philosophy and mechanicism. Even later, in the early 19th century, Agnes Ibbetson, an English botanist, disagreed with those who thought that the Mimosa had inherent feeling or sensitivity. Instead, she wrote that plants are “machines governed wholly by light and moisture; and dependent on these causes for motion.”
+<param ve-image url="Early of Cumberland.png"
+fit="contain"
+label="Hakluytus posthumus, v.16, page 98"
+description="Digitized copy found on Haithi Trust"
+license="Public Domain">
+<param ve-image url=""
+fit="contain"
+label="Journal of Natural Philosophy, Chemistry & the Arts (Nicholson's Journal), page 114"
+description="Digitized copy found on Biodiversity Heritage Library"
+license="Public Domain">
 
 
 Questions of knowledge legitimacy and cultural context are therefore critical to any investigation of the mimosa pudica. The tensions between these factors have animated contemporary art, literature, and herbalism--yet they have not yet significantly impacted the scientific discourse about mimosa pudica. As a plant who has so deeply impacted ideas about what it means to be alive and intelligent, the mimosa offers an opportunity for critical reflection on the ways that socio-cultural concepts influence the scientific construction of nature.[^24]
