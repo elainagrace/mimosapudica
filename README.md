@@ -144,7 +144,7 @@ license="Public Domain">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg"
 fit="contain"
 label="Theophrastus"
-license="Public Domain">
+license="CC BY-SA 2.5">
 
 
 
