@@ -85,12 +85,6 @@ By the mid 19th century, the Wardian case was in regular usage by institutions l
 With Nehemiah Cleaveland’s 1849 translation of _Les Fleurs Animées_ into English, wider audiences could access J.J. Grandville’s illustrations and stories of flowers come to life. [^15] Flowers within, such as the Sunflower or Tulip, were made to embody not only projections of human traits and desires, but also exotification. The collected imagery of mimosa within _Les Fleurs Animées_ was used to argue that the “beauties of the empire” were fond of being compared with the sensitive plant. Considering that the mimosa had been unknown to Europe only 3 centuries prior, the development of its cultural perception as a marker of femininity and high class must be considered critically. The mimosa’s ability to respond to stimuli may have been figured as a disruption to European perceptions of plant life, but was used to solidify hierarchies of race, class, and gender.
 <param ve-iframe src="https://archive.org/details/flowerspersonif00gimbgoog/page/n438/mode/1up">
 
-Paragraph about Gagliano and current mimosa scholarship
-<param ve-image url="Gagliano Experimental Design.png"
-label="Experimental Design of Monica Gagliano's Experiment"
-description="Fom Gagliano's article, 'Experience teaches plants to learn faster and forget slower in environments where it matters,' published in 2013 in Behavioural Ecology."
-fit="contain">
-
 ### Mimosa as Medicine in a Diversity of Knowledge Systems
 
 These historical contexts, particularly their entanglements with class, race, and gender, have drastically influenced European cultural relationships with mimosa today. Mimosa pudica is contemporarily available as either a houseplant or supplement in Europe, but it has also taken on particular cultural connotations.[^16] Consider that its Swedish name (Kruidje roer me niet) has come to colloquially refer to an overly sensitive or touchy person. A diversity of relationships with mimosa pudica exist today, shaped by legacies of capitalism, experimentation, and colonialism. From mimosa’s commercialization as a supplement, to its continued usage in Ayurveda, as well as current propositions to consider the mimosa plant as a mechanism to expand health care in Brazil and Mesoamerica.[^17]
@@ -140,11 +134,13 @@ The movement of the Sensitive Plant posed a problem for early European botanists
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg"
 fit="contain"
 label="Aristotle"
-license="Public Domain">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg"
+license="Public Domain"
+description="https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg">
+<param ve-image url=" c"
 fit="contain"
 label="Theophrastus"
-license="CC BY-SA 2.5">
+license="CC BY-SA 2.5"
+description="https://upload.wikimedia.org/wikipedia/commons/d/d1/Mimosa_pudica_%28Fabaceae%29_09.jpg">
 
 When John Layfield first encountered the Sensitive Plant in Puerto Rico in the late 16th century, he directly acknowledged how this plant challenges Hellenistic philosophy: “It hath a property, which confoundeth my understanding, and perhaps will seem strange in the way of the Philosophers, who have denied every part of sense to my plant; yet this certainly seemeth to have feeling.” Many botanists attempted to come up with mechanical explanations for the movement of this plant, especially under the influence of Rene Descartes, a prominent philospher and scientist, who popularized the idea that all nature and organisms are machines. Descartes’ ideas of mechanism made it possible to explain plant movement “in terms of physical causes reducible to matter and movement,” avoiding the idea that plants could have feelings. The Royal Society, in 1661, conducted experiments on the Sensitive Plant, theorizing that the circulation of some kind of sap allowed the plant to move. A century later, botanists were still grappling with whether or not the Sensitive Plant could feel. Abbe de Vallemont, a French scientist, declared that the “Sensitive Plant has no more sense than a cabbage,” demonstrating the maintained prevalence of Hellenistic philosophy and mechanicism. Even later, in the early 19th century, Agnes Ibbetson, an English botanist, disagreed with those who thought that the Mimosa had inherent feeling or sensitivity. Instead, she wrote that plants are “machines governed wholly by light and moisture; and dependent on these causes for motion.”
 <param ve-image url="Earl of Cumberland.png"
@@ -158,6 +154,17 @@ label="Journal of Natural Philosophy, Chemistry & the Arts (Nicholson's Journal)
 description="Digitized copy found on Biodiversity Heritage Library"
 license="Public Domain">
 
+Since the 16th century, the Sensitive Plant has been challenging our understanding of what it means to be alive, and it continues to do so today. Today’s debates have expanded, going beyond the question of aliveness and also addressing the questions of intelligence and memory. Monica Gagliano, an Australian ecologist, conducted an experiment on the Sensitive Plant that has brought the Mimosa into discussions of plant intelligence and memory. Interested in plant behavior, Gagliano discovered the experiments of Lamarck and Desfontaines. Gagliano decided to recreate this experiment, calling it “the Lamarck and Desfontaines experiment”. (Revolutionary genius of plants) Gagliano wanted to both show that the Sensitive Plant was able to learn that a stimulus was not dangerous (and therefore did not need to close its leaves) and that the plant could distinguish between two stimuli. Gagliano’s experiment consisted of two experimental groups: high light and low light conditions. Plants in each condition were subjected to repeated drops from a height of about four inches. After repetitions, the plants stopped closing their leaves. Strikingly, the plants in low light conditions learned to close their leaves more quickly. Gagliano also set up a method to shake the plants, a new stimulus. She found that even after the plants began to leave their leaves open upon being dropped, they would quickly close when subjected to the new stimulus of shaking — clearly, the Mimosa pudica can differentiate between two stimuli. Gagliano also tested the ability of the plants to remember the stimulus. After being left undisturbed for 28 days, Gagliano dropped the plants once more. Not only did the plants leave their leaves open, but they were open to a greater degree. The implications of Gagliano’s experiment are profound — perhaps plants have a much greater degree of memory than scholars have previously thought.
+<param ve-image url="Gagliano Experimental Design.png"
+label="Experimental Design of Monica Gagliano's Experiment"
+description="Fom Gagliano's article, 'Experience teaches plants to learn faster and forget slower in environments where it matters,' published in 2013 in Behavioural Ecology."
+fit="contain">
+
+Gagliano’s experiment echoes many of the tensions surrounding what it means to be a plant. Arguing that plants have intelligence and memory stands in stark contrast to the ideas that Aristotle and Theophrastus set forth, ideas claiming that plants do not feel. However, the significance of Hellenistic philosophy is ever present in Gagliano’s work. In the introduction to her paper, she writes that “This relatively long-lasting learned behavioral change…matches the persistence of habituation effects observed in many animals.” She continues, writing that “we have performed this test here by applying ecological theory for animals.” The fact that Gagliano’s experiment, on the Mimosa pudica, mentions animals shows the maintained prevalence of Hellenistic philosophy. Gagliano’s experiment also adds to the growing field of plant intelligence. Books such as Plant Sapiens: The New Science of Plant Intelligence and The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior devote significant portions of their discussion to the Sensitive Plant. As Plant Sapiens reads, “we are just about beginning to acknowledge that non-human animals might have intelligence, but accepting that plants might requires a radical shift.” Understanding the ability of the Sensitive Plant to remember how to respond to stimuli is perhaps an important step in this shift.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Mimosa_pudica_%28Fabaceae%29_09.jpg"
+fit="contain"
+license="CC BY-SA 4.0"
+description="https://upload.wikimedia.org/wikipedia/commons/d/d1/Mimosa_pudica_%28Fabaceae%29_09.jpg">
 
 Questions of knowledge legitimacy and cultural context are therefore critical to any investigation of the mimosa pudica. The tensions between these factors have animated contemporary art, literature, and herbalism--yet they have not yet significantly impacted the scientific discourse about mimosa pudica. As a plant who has so deeply impacted ideas about what it means to be alive and intelligent, the mimosa offers an opportunity for critical reflection on the ways that socio-cultural concepts influence the scientific construction of nature.[^24]
 <param ve-video vid="E_q2ZcEEw1Y">
