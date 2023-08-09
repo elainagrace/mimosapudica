@@ -42,8 +42,16 @@ The fascinating movement of the Sensitive Plant has made it a popular study for 
 <param ve-entity eid="Q55028639" title="Jean-Jaques d'Ortous de Marian">
 
 
-Paragraph about René-Louiche Desfontaines and Lamrack 
+Jean-Baptiste Pierre Antoine de Monet, Chevalier de Lamarck (1744-1829), or Lamarck, also studied the Mimosa pudica. He subjected the Sensitive Plant to repeated stimulation, and he noticed that eventually the plant would not respond anymore. Lamarck theorized that the plant was fatigued from so much stimulation. However, he observed that the plant would sometimes stop closing its leaves well before having exhausted its energy, implying that there was more to this puzzling behavior than fatigue. (Comes from the revolutionary genius of plants) An experiment performed by Rene-Louiche Desfontaines (1750-1833), what has come to be the most well known Mimosa pudica experiment and the experiment on which contemporary studies of the this plant are based, provided insight as to whether or not the plant was fatigued or had simply gotten use to the stimulation. The most well known experiment, and the experiment on which contemporary studies of the Sensitive Plant are based, was performed by René-Louiche Desfontaines in the late 18th century. As mentioned, he (or, more accurately, his students) placed the mimosa in a moving cart and took it on a ride through Paris. The bumpiness or the ride caused the leaves to fold, but as the ride continued, the plant began to open its leaves. Perhaps the plant was tired of holding its leaves closed, or perhaps the plant had gotten used to the movement. The carriage was stopped for a while, and upon its resumed movement, the plant would fold up its leaves once more, implying that, as Desfontaines student wrote in his notebook, “the plants are getting used to it”. (From plant sapiens)
 <param ve-entity eid="Q82122" title="Jean-Baptiste Lamarck">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Jean-Baptiste_de_Lamarck.jpg"
+label="Jean-Baptiste Pierre Antoinne de Monet, Chevalier de Lamarck"
+description="https://upload.wikimedia.org/wikipedia/commons/a/a5/Jean-Baptiste_de_Lamarck.jpg"
+license="Public Domain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Portrait_of_Rene_Louiche_Desfontaines_Wellcome_L0016366.jpg"
+label="Rene-Louiche Desfontaines"
+description="https://upload.wikimedia.org/wikipedia/commons/3/3e/Portrait_of_Rene_Louiche_Desfontaines_Wellcome_L0016366.jpg"
+license="CC BY 4.0">
 
 19th century European depictions of womanhood were entangled with the plant matter that traveling botanists were extracting from the colonies. Depictions of gender could be reinforced by projecting social conventions onto newly-introduced plants, without overt political invocations. The mimosa, having had both scientific figures and artists figure it as responsive and sensitive, was thus used to normalize ideas about femininity. Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and mimosa has been called “a symbol of modern womanhood” for its depiction of “the nurturing power of the female touch." [^13] As Edgar’s figure reaches out to touch the mimosa, viewers can see the sensitivity of both the woman and the potted mimosa plant; critically, one also notices their docility. A few decades prior, a late 18th century stipple engraving entitled “Sensibility” shows Emma Hamilton reaching towards a potted mimosa plant, even as it closes its leaves. Both images play on a femininity that balances separation and adjacency to the natural world.
 <param ve-image 
@@ -136,11 +144,11 @@ fit="contain"
 label="Aristotle"
 license="Public Domain"
 description="https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg">
-<param ve-image url=" c"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg"
 fit="contain"
 label="Theophrastus"
 license="CC BY-SA 2.5"
-description="https://upload.wikimedia.org/wikipedia/commons/d/d1/Mimosa_pudica_%28Fabaceae%29_09.jpg">
+description="https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg">
 
 When John Layfield first encountered the Sensitive Plant in Puerto Rico in the late 16th century, he directly acknowledged how this plant challenges Hellenistic philosophy: “It hath a property, which confoundeth my understanding, and perhaps will seem strange in the way of the Philosophers, who have denied every part of sense to my plant; yet this certainly seemeth to have feeling.” Many botanists attempted to come up with mechanical explanations for the movement of this plant, especially under the influence of Rene Descartes, a prominent philospher and scientist, who popularized the idea that all nature and organisms are machines. Descartes’ ideas of mechanism made it possible to explain plant movement “in terms of physical causes reducible to matter and movement,” avoiding the idea that plants could have feelings. The Royal Society, in 1661, conducted experiments on the Sensitive Plant, theorizing that the circulation of some kind of sap allowed the plant to move. A century later, botanists were still grappling with whether or not the Sensitive Plant could feel. Abbe de Vallemont, a French scientist, declared that the “Sensitive Plant has no more sense than a cabbage,” demonstrating the maintained prevalence of Hellenistic philosophy and mechanicism. Even later, in the early 19th century, Agnes Ibbetson, an English botanist, disagreed with those who thought that the Mimosa had inherent feeling or sensitivity. Instead, she wrote that plants are “machines governed wholly by light and moisture; and dependent on these causes for motion.”
 <param ve-image url="Earl of Cumberland.png"
