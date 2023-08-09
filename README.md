@@ -47,11 +47,13 @@ Jean-Baptiste Pierre Antoine de Monet, Chevalier de Lamarck (1744-1829), or Lama
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Jean-Baptiste_de_Lamarck.jpg"
 label="Jean-Baptiste Pierre Antoinne de Monet, Chevalier de Lamarck"
 description="https://upload.wikimedia.org/wikipedia/commons/a/a5/Jean-Baptiste_de_Lamarck.jpg"
-license="Public Domain">
+license="Public Domain"
+fit="contain">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Portrait_of_Rene_Louiche_Desfontaines_Wellcome_L0016366.jpg"
 label="Rene-Louiche Desfontaines"
 description="https://upload.wikimedia.org/wikipedia/commons/3/3e/Portrait_of_Rene_Louiche_Desfontaines_Wellcome_L0016366.jpg"
-license="CC BY 4.0">
+license="CC BY 4.0"
+fit="0,34,1200,1072">
 
 19th century European depictions of womanhood were entangled with the plant matter that traveling botanists were extracting from the colonies. Depictions of gender could be reinforced by projecting social conventions onto newly-introduced plants, without overt political invocations. The mimosa, having had both scientific figures and artists figure it as responsive and sensitive, was thus used to normalize ideas about femininity. Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and mimosa has been called “a symbol of modern womanhood” for its depiction of “the nurturing power of the female touch." [^13] As Edgar’s figure reaches out to touch the mimosa, viewers can see the sensitivity of both the woman and the potted mimosa plant; critically, one also notices their docility. A few decades prior, a late 18th century stipple engraving entitled “Sensibility” shows Emma Hamilton reaching towards a potted mimosa plant, even as it closes its leaves. Both images play on a femininity that balances separation and adjacency to the natural world.
 <param ve-image 
