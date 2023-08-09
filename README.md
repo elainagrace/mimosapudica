@@ -136,6 +136,10 @@ Poet Crystal Z Campell draws on the many-layered histories of the Mimosa pudica 
 
 
 ### Ongoing Tensions
+The movement of the Sensitive Plant posed a problem for early European botanists – how could a plant have such sensitivity? For centuries, Hellenistic philosophy reigned supreme. Aristotle and Theophrastus both argue that plants are characterized by an “insensitive Vegetative soul,” and animals are characterized by a “Sensitive Soul.” Animals were capable of making active responses to external stimuli, but plants were supposed to be passive—their only faculties devoted to nutrient intake and reproduction. This philosophy, which clearly differentiated between plants and animals based on their sensitivity, had authority well into the 17th century.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg">
+
+
 Questions of knowledge legitimacy and cultural context are therefore critical to any investigation of the mimosa pudica. The tensions between these factors have animated contemporary art, literature, and herbalism--yet they have not yet significantly impacted the scientific discourse about mimosa pudica. As a plant who has so deeply impacted ideas about what it means to be alive and intelligent, the mimosa offers an opportunity for critical reflection on the ways that socio-cultural concepts influence the scientific construction of nature.[^24]
 <param ve-video vid="E_q2ZcEEw1Y">
 
