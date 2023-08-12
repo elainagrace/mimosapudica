@@ -110,15 +110,12 @@ license="Public Domain"
 fit="-90,-93,579,467">
 
 Although mimosa is a plant that never took on a mainstream medicinal context in Europe, its presence (made possible through colonial botany) served to advance debates about what it meant to be alive. That this debate was occurring in conjunction with ongoing developments to racial and gendered hierarchies in colonial contexts is not coincidence, but an indication of the ways that popular culture and scientific fact have influenced one another. The WHO’s present-day guideline for “developing countries” to use their natural resources in order to meet health care needs offers a discordant reflection of Linneaus’ own hope that Sweden’s economy might stabilize with further knowledge of Swedish natural resources. [^27] This framing fails to adequately grapple with the histories of exploitation and expropriation of resources from South America by imperialist countries that directly led to Brazil being considered a “developing country” by international standards. Consider the adjoining map's slider tool, which indicates current vs. native distribution of the mimosa.
-<param ve-compare curtain 
-	compare="true"
-url="distribution_map-3.png"
-image label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
+<param ve-compare curtain url="distribution_map-3.png"
+label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
 description="map by CABI Data"
 license="CC BY-NA-SA 4.0">
-<param ve-compare 
-url="distribution_map-2.png"
-image label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
+<param ve-compare url="distribution_map-2.png"
+label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
 description="map by CABI Data"
 license="CC BY-NC-SA 4.0">
 
