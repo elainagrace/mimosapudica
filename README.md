@@ -35,8 +35,16 @@ Visualization link: https://plants.jstor.org/stable/pdf/10.5555/al.ap.visual.hor
 JSTOR won't let me access it; I'm not sure why.
 
 Fueled through literary, scientific, and artistic representations, European fascination with Mimosa pudica has also been philosophical and scientific. The plant’s movement in response to stimulus posed a problem for early European botanists—how could a plant display such sensitivity? For centuries, Hellenistic philosophy reigned supreme. Aristotle and Theophrastus both argued that plants were characterized by an “insensitive Vegetative soul,” and animals by a “Sensitive Soul.” Animals could make active responses to external stimuli, but plants were supposed to be passive—their only faculties devoted to nutrient intake and reproduction. This philosophy, clearly differentiating plants from animals based on their sensitivity, held firm well into the seventeenth century. In 1661, in a dramatic and evocative study of the plant, European microscopist Robert Hooke burned the Mimosa pudica with acid, cut, and struck it in scientific trials. These violent manipulations were intended to elucidate the motivation and mechanism behind the plant’s responses.6 As European cultural associations with the Sensitive Plant developed, other scientists continued experimenting: in the late eighteenth century, the French botanist René-Louiche Desfontaines took the plant on a bumpy horse drawn carriage ride in Paris to see how it would react.
-
-Visualization: could to pictures of Aristotle and Theophrastus 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg"
+fit="contain"
+label="Aristotle"
+license="Public Domain"
+description="https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg"
+fit="contain"
+label="Theophrastus"
+license="CC BY-SA 2.5"
+description="https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg">
 
 When John Layfield first encountered the Sensitive Plant in Puerto Rico in the late 16th century, he directly acknowledged how this plant challenges Hellenistic philosophy: “It hath a property, which confoundeth my understanding, and perhaps will seem strange in the way of the Philosophers, who have denied every part of sense to my plant; yet this certainly seemeth to have feeling.”[^37] Many botanists attempted to come up with mechanical explanations for the movement of this plant, especially under the influence of Rene Descartes, a prominent philospher and scientist, who popularized the idea that all nature and organisms are machines. Descartes’ ideas of mechanism made it possible to explain plant movement “in terms of physical causes reducible to matter and movement,” avoiding the idea that plants could have feelings.[^38] The Royal Society, in 1661, conducted experiments on the Sensitive Plant, theorizing that the circulation of some kind of sap allowed the plant to move. A century later, botanists were still grappling with whether or not the Sensitive Plant could feel. Abbe de Vallemont, a French scientist, declared that the “Sensitive Plant has no more sense than a cabbage,” demonstrating the maintained prevalence of Hellenistic philosophy and mechanicism.[^39] Even later, in the early 19th century, Agnes Ibbetson, an English botanist, disagreed with those who thought that the Mimosa had inherent feeling or sensitivity. Instead, she wrote that plants are “machines governed wholly by light and moisture; and dependent on these causes for motion.”[^40]
 <param ve-image url="Earl of Cumberland.png"
