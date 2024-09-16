@@ -35,9 +35,6 @@ label="Mimosa Pudica lectotype specimen from the Natural History Museum's Herbar
 description="Digitized specimen accessed through JSTOR Global Plants"
 fit="contain">
 
-Visualization link: https://plants.jstor.org/stable/pdf/10.5555/al.ap.visual.horneart32-449  
-JSTOR won't let me access it; I'm not sure why.
-
 Fueled through literary, scientific, and artistic representations, European fascination with Mimosa pudica has also been philosophical and scientific. The plant’s movement in response to stimulus posed a problem for early European botanists—how could a plant display such sensitivity? For centuries, Hellenistic philosophy reigned supreme. Aristotle and Theophrastus both argued that plants were characterized by an “insensitive Vegetative soul,” and animals by a “Sensitive Soul.” Animals could make active responses to external stimuli, but plants were supposed to be passive—their only faculties devoted to nutrient intake and reproduction. This philosophy, clearly differentiating plants from animals based on their sensitivity, held firm well into the seventeenth century. In 1661, in a dramatic and evocative study of the plant, the Royal Society (link) burned the Mimosa pudica with acid, cut, and struck it in scientific trials. These violent manipulations were intended to elucidate the motivation and mechanism behind the plant’s responses.6 As European cultural associations with the Sensitive Plant developed, other scientists continued experimenting: in the late eighteenth century, the French botanist René-Louiche Desfontaines took the plant on a bumpy horse drawn carriage ride in Paris to see how it would react.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg"
 fit="contain"
