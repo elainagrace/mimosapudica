@@ -174,5 +174,37 @@ Questions of knowledge legitimacy and cultural context are critical to any inves
 
 ### References
 [^23]: Londa Schiebinger, Plants and Empire: Colonial Bioprospecting in the Atlantic World (Cambridge: Harvard University Press, 2004), https://doi.org/10.2307/j.ctvk12qdh.
-
+[^24] Charles Webster, C.5. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeeth Century.” Isis, 57 (1): 5.
+[^25] “Maria Edgar: The Sensitive Plan.” The Metropolitan Museum of Art, www.metmuseum.org/art/collection/search/10838.
+[^26] Phillipa Lewis, “The Wardian Case: A History of Plant Transportation,” Royal Botanic Gardens Kew, 23 Sept. 2016. www.kew.org/read-and-watch/the-wardian-case-a-history-of-plant-transportation.
+[^27] Xan Sarah Chacko. 2019. “Digging up colonial roots: The less-known origins of the Millennium Seed Bank Partnership.” Catalyst: Feminism, Theory, Technoscience, 5(2), 6.
+[^28] Maura Flannery, “Victorian Botany: The Wardian Case,” Herbarium World, 15 June 2021,
+https://herbariumworld.wordpress.com/2021/06/15/victorian-botany-the-wardian-case/. 
+[^29] “J. J. Grandville’s Illustrations from The Flowers Personified (1849),” The Public Domain Review, https://publicdomainreview.org/collection/the-flowers-personified-1847/.
+[^37] Alexis Harley, “Haraway’s Material-Semiotic Knot: A Learning-Teaching Response for Creative-Critical Times,” A/b: Auto/Biography Studies (2019) 34 (3): 544, https://doi.org/10.1080/08989575.2019.1664139.
+[^38] Mattias S. Geck, Sol Cristians, Mónica Berger-González, Laura Casu, Michael Heinrich, and Marco Leonti, “Traditional Herbal Medicine in Mesoamerica: Toward Its Evidence Base for Improving Universal Health Coverage,” Frontiers in Pharmacology (2020), 11, https://www.frontiersin.org/articles/10.3389/fphar.2020.01160.
+H. Ahmad, S. Sehgal, A. Mishra, and R. Gupta "Mimosa pudica L. (Laajvanti): An overview,”
+Pharmacognosy reviews (2012) 6 (12), 115–124, https://doi.org/10.4103/0973-7847.99945.
+Patricia de Moraes Mello Boccolini, and Cristiano Siqueira Boccolini, “Prevalence of Complementary and Alternative Medicine (CAM) Use in Brazil,” BMC Complementary Medicine and Therapies 20 (2020) (1): 51, https://doi.org/10.1186/s12906-020-2842-8.
+[^39] “Mimosa Pudica,” Royal Botanic Gardens Kew Science,
+https://mpns.science.kew.org/mpns-portal/plantDetail?plantId=2373711&query=mimosa+pudica&filter=&fu zzy=false&nameType=all&dbs=wcs
+[^40] H. Ahmad.
+Dennis R.A. Mans, Deeksha Ganga, and Joëlle Kartopawiro, “Meeting of the Minds: Traditional Herbal Medicine in Multiethnic Suriname,” in Aromatic and Medicinal Plants, edited by Hany A. El-Shemy, Ch. 6. (2017), Rijeka: IntechOpen, https://doi.org/10.5772/66509.
+C. Lans, “Ethnomedicines used in Trinidad and Tobago for reproductive problems,” Journal of ethnobiology and ethnomedicine, 3 (2007) 13, https://doi.org/10.1186/1746-4269-3-13.
+[^41] Laurelyn Whitt, Science, Colonialism, and Indigenous Peoples: The Cultural Politics of Law and Knowledge (Cambridge: Cambridge University Press, 2009).
+[^42] AnnaTsing, The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (Princeton: Princeton University Press, 2015).
+[^43] Abena Dove Osseo-Asare, Bitter Roots: The Search for Healing Plants in Africa (Chicago: The University of Chicago Press, 2014); CLEAR, CLEAR Lab Book: A living manual of our values, guidelines, and protocols, V.03 (St. John’s, NL: Civic Laboratory for Environmental Action Research, Memorial University of Newfoundland and Labrador, 2021);
+Jamaica Kincaid, My Garden (Book) (New York: Farrar Straus Giroux, 1999); Jonathan Goldberg-Hiller and Noenoe
+K. Silva, "The Botany of Emergence: Kanaka Ontology and Biocolonialism in Hawai`i," Native American and
+Indigenous Studies 2:2 (2015): 16; 
+Vanessa Wijngaarden, “Relationality,” Showing Theory to Know Theory, Showing Theory Press, 28 Feb. 2022, https://ecampusontario.pressbooks.pub/showingtheory/chapter/relationality/; 
+Carolyn Merchant, The Death of Nature: Women, Ecology, and the Scientific Revolution: A Feminist Reappraisal of the Scientific Revolution (San Francisco: Harper and Row, 1980).
+Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective,” Feminist Studies 14:3 (1988): 575–599.
+[^44] David B. Livingstone, Putting Science in Its Place: Geographies of Scientific Knowledge (Chicago: University of Chicago Press, 2003), 32.
+Greta LaFleur, The Natural History of Sexuality in Early America Baltimore (Johns Hopkins University Press, 2018),
+doi:10.1353/book.61934.
+Londa Schiebinger, Plants and Empire: Colonial Bioprospecting in the Atlantic World (Cambridge: Harvard University Press, 2004).
+[^45] “Mimosa Pudica,” Earth Medicine Institute,
+https://earthmedicineinstitute.com/more/library/medicinal-plants/mimosa-pudica/.  
+[^52] Kiran Asher, Mel Y. Chen, Kareem Khubchandani, Eli Nelson, and Banu Subramaniam. 2021. “Cyborgs Unbound: Feminist STS, Interdisicplinarity, and Graduate Education.” Catalyst: Feminism, Theory, Technoscience 7 (1): 27.
 
