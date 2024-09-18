@@ -173,6 +173,29 @@ Questions of knowledge legitimacy and cultural context are critical to any inves
 
 
 ### References
+[^1]: Richard Mabey, The Cabaret of Plants: Forty Thousand Years of Plant Life and the Human Imagination. First American edition. (New York: W.W. Norton & Company, 2016).
+[^2]: “Mimosa Pudica,” GISD, accessed August 7, 2023, http://www.iucngisd.org/gisd/species.php?sc=1002.
+[^3]: Cristobal Acosta, Cristóbal, and Garcia de Orta,. 1578. Tractado de las drogas, y medicinas de las Indias Orientales, con sus plantas debuxadas al biuo por Christoual Acosta ... En el qual se verifica mucho de lo que escriuio el doctor Garcia de Orta. (Burgos: M. de Victoria, 1578).
+[^4]: Charles Webster, C.5. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeeth Century.” Isis, 57 (1): 5.
+[^5]: Charles Webster, Charles. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeenth Century.” Isis 57 (1): 5.
+[^6]: Ann B. Shteir., Ann B. 2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^7]: Shteir, Ann B. Shteir2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^8]: Shteir, Ann B. Shteir2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^9]: Guido Giglioni, Guido. 2018. “Touch Me Not,.” Early Science and Medicine (2018) 23 (5): 420–443., https://doi.org/10.1163/15733823-02356P02.
+[^10]: C. Parker, “Mimosa Pudica (sensitive Plant),” CABI Compendium 2022, https://doi.org/10.1079/cabicompendium.34202.
+[^11]: Charles Webster, “The Recognition of Plant Sensitivity by English Botanists in the Seventeenth Century,” Isis 57, no. 1 (1966): 5–23, http://www.jstor.org/stable/228687.
+[^12]: Shteir, Ann B. Shteir2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^13]: Stefano Mancuso, The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior (New York: Atria Books, 2018).
+[^13]: Samuel Purchas, Hakluytus Posthumus: or Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others (Glasgow: J. MacLehose and sons, 1905)
+[^15]: Quentin Hiernaux, “History and Epistemology of Plant Behaviour: a Pluralistic View?” Synthese (Dordrecht) 198 (4): 3625–3650 (2021), https://doi.org/10.1007/s11229-019-02303-9.
+[^16]: Abbe de Vallemont and William Fleetwood, Curiosities of Nature and Art in Husbandry and Gardening: Containing Several New Experiments in the Improvement of Land, Trees, Fruits, &c. and Also Nice and Useful
+Observations in the Vegetation and Propagation of Plants: with Choice Secrets to Make Plants, Flowers and Fruits Larger, More Beautiful, and to Ripen Quicker Than Usual (London: Printed for D. Brown, at the Black Swan without Temple-Bar, 1707).
+[^17]: William Nicholson, Journal of Natural Philosophy, Chemistry, and the Arts (London, 1797).
+[^18]: Charles Webster. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeenth Century.” Isis 57 (1): 5.
+[^19]: Shteir, Ann B. Shteir2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^20]: Histoire de l'Académie royale des sciences, avec les mémoires de mathématique et de physique (Paris: Chez Gabriel Martin, Jean-Baptiste Coignard fils, H. Louis Guerin, 1699).
+[^21]: Stefano Mancuso, The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior (New York: Atria Books, 2018).
+[^22]: Paco Calvo and Natalie Lawrence, Planta Sapiens: the New Science of Plant Intelligence. First American edition (New York: W.W. Norton & Company, 2023).
 [^23]: Londa Schiebinger, Plants and Empire: Colonial Bioprospecting in the Atlantic World (Cambridge: Harvard University Press, 2004), https://doi.org/10.2307/j.ctvk12qdh.
 [^24]: Charles Webster, C.5. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeeth Century.” Isis, 57 (1): 5.
 [^25]: “Maria Edgar: The Sensitive Plan.” The Metropolitan Museum of Art, www.metmuseum.org/art/collection/search/10838.
@@ -205,6 +228,11 @@ Greta LaFleur, The Natural History of Sexuality in Early America Baltimore (John
 doi:10.1353/book.61934.
 Londa Schiebinger, Plants and Empire: Colonial Bioprospecting in the Atlantic World (Cambridge: Harvard University Press, 2004).
 [^45]: “Mimosa Pudica,” Earth Medicine Institute,
-https://earthmedicineinstitute.com/more/library/medicinal-plants/mimosa-pudica/.  
+https://earthmedicineinstitute.com/more/library/medicinal-plants/mimosa-pudica/. 
+[^46]:Stefano Mancuso, The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior (New York: Atria Books, 2018).
+[^47]: Monica Gagliano, Michael Renton, Martial Depczynski, and Stefano Mancuso, “Experience Teaches Plants to Learn Faster and Forget Slower in Environments Where It Matters,” Oecologia 175 (2014) (1): 63–72,      https://doi.org/10.1007/s00442-013-2873-7.
+[^48]: Monica Gagliano, Michael Renton, Martial Depczynski, and Stefano Mancuso, “Experience Teaches Plants to Learn Faster and Forget Slower in Environments Where It Matters,” Oecologia 175 (2014) (1): 63–72,      https://doi.org/10.1007/s00442-013-2873-7.
+
 [^52]: Kiran Asher, Mel Y. Chen, Kareem Khubchandani, Eli Nelson, and Banu Subramaniam. 2021. “Cyborgs Unbound: Feminist STS, Interdisicplinarity, and Graduate Education.” Catalyst: Feminism, Theory, Technoscience 7 (1): 27.
+[^53]: Richard Mabey, The Cabaret of Plants: Forty Thousand Years of Plant Life and the Human Imagination. First American edition (New York: W.W. Norton & Company, 2016), 329–339.
 
