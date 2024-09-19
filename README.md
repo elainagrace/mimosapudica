@@ -204,6 +204,10 @@ Observations in the Vegetation and Propagation of Plants: with Choice Secrets to
 [^28]: Maura Flannery, “Victorian Botany: The Wardian Case,” Herbarium World, 15 June 2021,
 https://herbariumworld.wordpress.com/2021/06/15/victorian-botany-the-wardian-case/. 
 [^29]: “J. J. Grandville’s Illustrations from The Flowers Personified (1849),” The Public Domain Review, https://publicdomainreview.org/collection/the-flowers-personified-1847/.
+[^30]: Percy Bysshe Shelley, “The Sensitive Plant” (London: W. Heinemann, 1911).
+[^31]: Shelley, lines 140–145.
+[^32]: Shelley, lines 153–155.
+[^33]: Theresa M. Kelley, Clandestine Marriage: Botany and Romantic Culture (Baltimore: Johns Hopkins University Press, 2012), 211–212.
 [^37]: Alexis Harley, “Haraway’s Material-Semiotic Knot: A Learning-Teaching Response for Creative-Critical Times,” A/b: Auto/Biography Studies (2019) 34 (3): 544, https://doi.org/10.1080/08989575.2019.1664139.
 [^38]: Mattias S. Geck, Sol Cristians, Mónica Berger-González, Laura Casu, Michael Heinrich, and Marco Leonti, “Traditional Herbal Medicine in Mesoamerica: Toward Its Evidence Base for Improving Universal Health Coverage,” Frontiers in Pharmacology (2020), 11, https://www.frontiersin.org/articles/10.3389/fphar.2020.01160.
 H. Ahmad, S. Sehgal, A. Mishra, and R. Gupta "Mimosa pudica L. (Laajvanti): An overview,”
@@ -232,7 +236,7 @@ https://earthmedicineinstitute.com/more/library/medicinal-plants/mimosa-pudica/.
 [^46]:Stefano Mancuso, The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior (New York: Atria Books, 2018).
 [^47]: Monica Gagliano, Michael Renton, Martial Depczynski, and Stefano Mancuso, “Experience Teaches Plants to Learn Faster and Forget Slower in Environments Where It Matters,” Oecologia 175 (2014) (1): 63–72,      https://doi.org/10.1007/s00442-013-2873-7.
 [^48]: Monica Gagliano, Michael Renton, Martial Depczynski, and Stefano Mancuso, “Experience Teaches Plants to Learn Faster and Forget Slower in Environments Where It Matters,” Oecologia 175 (2014) (1): 63–72,      https://doi.org/10.1007/s00442-013-2873-7.
-
+[^49]: Crystal Z. Campbell, “Makahiya (How Do I Tell You I Remember),” World Literature Today 95, no. 2 (2021): 55.
 [^52]: Kiran Asher, Mel Y. Chen, Kareem Khubchandani, Eli Nelson, and Banu Subramaniam. 2021. “Cyborgs Unbound: Feminist STS, Interdisicplinarity, and Graduate Education.” Catalyst: Feminism, Theory, Technoscience 7 (1): 27.
 [^53]: Richard Mabey, The Cabaret of Plants: Forty Thousand Years of Plant Life and the Human Imagination. First American edition (New York: W.W. Norton & Company, 2016), 329–339.
 
