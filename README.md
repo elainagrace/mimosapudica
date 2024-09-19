@@ -206,9 +206,11 @@ https://herbariumworld.wordpress.com/2021/06/15/victorian-botany-the-wardian-cas
 [^29]: “J. J. Grandville’s Illustrations from The Flowers Personified (1849),” The Public Domain Review, https://publicdomainreview.org/collection/the-flowers-personified-1847/.
 [^30]: Erasmus Darwin, “The Botanic Garden: A Poem, in Two Parts; Containing the Economy of Vegetation and the Loves of the Plants; with Philosophical Notes” (London: Jones & Company, 1825
 [^31]: Darwin, 32
-[^32]: Shelley, lines 140–145.
-[^33]: Shelley, lines 153–155.
-[^34]: Theresa M. Kelley, Clandestine Marriage: Botany and Romantic Culture (Baltimore: Johns Hopkins University Press, 2012), 211–212.
+[^32]: Percy Bysshe Shelley, “The Sensitive Plant” (London: W. Heinemann, 1911).
+[^33]: Shelley, lines 140–145.
+[^34]: Shelley, lines 153–155.
+[^35]: Theresa M. Kelley, Clandestine Marriage: Botany and Romantic Culture (Baltimore: Johns Hopkins University Press, 2012), 211–212.
+[^36]: Shelley, lines 253–255.
 [^37]: Alexis Harley, “Haraway’s Material-Semiotic Knot: A Learning-Teaching Response for Creative-Critical Times,” A/b: Auto/Biography Studies (2019) 34 (3): 544, https://doi.org/10.1080/08989575.2019.1664139.
 [^38]: Mattias S. Geck, Sol Cristians, Mónica Berger-González, Laura Casu, Michael Heinrich, and Marco Leonti, “Traditional Herbal Medicine in Mesoamerica: Toward Its Evidence Base for Improving Universal Health Coverage,” Frontiers in Pharmacology (2020), 11, https://www.frontiersin.org/articles/10.3389/fphar.2020.01160.
 H. Ahmad, S. Sehgal, A. Mishra, and R. Gupta "Mimosa pudica L. (Laajvanti): An overview,”
