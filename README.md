@@ -166,7 +166,7 @@ Gagliano’s experiments remind us of the ongoing—and fraught—ambiguities su
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Mimosa_pudica_%28Fabaceae%29_09.jpg"
 fit="contain"
 license="CC BY-SA 4.0"
-description="https://upload.wikimedia.org/wikipedia/commons/d/d1/Mimosa_pudica_%28Fabaceae%29_09.jpg">
+description="Mimosa Blossoms">
 
 In addition to scientific interest, the Sensitive Plant has continued to inspire literary interest. Poet Crystal Z Campbell draws on the many-layered histories of the plant in their 2021 poem “Makahiya (How Do I Tell You I Remember).”[^49] Makahiya (meaning shy in Filipino) refers to the Filipino name for the Sensitive Plant. By placing this name alongside “How Do I Tell You I Remember,” Campbell situates her poem in Filipino storytelling, where the Makahiya is a shy young girl transformed into a plant to protect her from invaders.[^50] Building from this, the opening stanza reads: “Can a weed be humble/bashful, sensitive, or shy/to test for memory, drop it from its senses/lean over the balcony/with your camera/telephoto a royal freefall/repeat from increasing crowns, observe/in bursts, freeze/a mandrake’s scream/in frames/(to survive, means you have mastered the art of feigning sleep.)”[^51] Campbell rejects the Linnean name for the plant, referring to it exclusively as an invasive weed. Ecologists frequently identify the plant as an invasive species in tropical climates including the Philippines.[^52] In this context, however, the nomenclature used highlights the evasive nature of the plant and draws attention to its many names. Campbell asks if a plant can be humble, bashful, sensitive, or shy, referring to the many different common names evoked to describe or explain its unique behavior. Additionally, Campbell alludes to the various scientific studies repeatedly dropping the plant to test its alleged ability to remember and retain memory. In this short stanza, Campbell covers a lot of ground, paying homage to the vast history of this singular plant modestly referred to as a weed in the Philippines. Perhaps this is what Campbell is referring to when they describe survival as the ability to master the art of feigning sleep. As such, the poem speaks to the enduring fascination provoked by sensitive plant across scientific and literary realms.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/Touch_me_not_2.jpg">
@@ -178,18 +178,18 @@ Questions of knowledge legitimacy and cultural context are critical to any inves
 
 
 ### References
-[^1]: Richard Mabey, The Cabaret of Plants: Forty Thousand Years of Plant Life and the Human Imagination. First American edition. (New York: W.W. Norton & Company, 2016).
+[^1]: Richard Mabey, *The Cabaret of Plants: Forty Thousand Years of Plant Life and the Human Imagination.* First American edition. (New York: W.W. Norton & Company, 2016).
 [^2]: “Mimosa Pudica,” GISD, accessed August 7, 2023, http://www.iucngisd.org/gisd/species.php?sc=1002.
 [^3]: Cristobal Acosta, Cristóbal, and Garcia de Orta,. 1578. Tractado de las drogas, y medicinas de las Indias Orientales, con sus plantas debuxadas al biuo por Christoual Acosta ... En el qual se verifica mucho de lo que escriuio el doctor Garcia de Orta. (Burgos: M. de Victoria, 1578).
 [^4]: Charles Webster, C.5. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeeth Century.” Isis, 57 (1): 5.
 [^5]: Charles Webster, Charles. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeenth Century.” Isis 57 (1): 5.
 [^6]: Ann B. Shteir., Ann B. 2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
-[^7]: Shteir, Ann B. Shteir2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
-[^8]: Shteir, Ann B. Shteir2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^7]: Ann B. Shteir. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. (Chicago: University of Chicago Press, 2019) https://doi.org/10.7208/9780226150024-008.
+[^8]: Ann B. Shteir. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. (Chicago: University of Chicago Press, 2019) https://doi.org/10.7208/9780226150024-008.
 [^9]: Guido Giglioni, Guido. 2018. “Touch Me Not,.” Early Science and Medicine (2018) 23 (5): 420–443., https://doi.org/10.1163/15733823-02356P02.
 [^10]: C. Parker, “Mimosa Pudica (sensitive Plant),” CABI Compendium 2022, https://doi.org/10.1079/cabicompendium.34202.
 [^11]: Charles Webster, “The Recognition of Plant Sensitivity by English Botanists in the Seventeenth Century,” Isis 57, no. 1 (1966): 5–23, http://www.jstor.org/stable/228687.
-[^12]: Shteir, Ann B. Shteir2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^12]: Ann B. Shteir. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. (Chicago: University of Chicago Press, 2019) https://doi.org/10.7208/9780226150024-008.
 [^13]: Stefano Mancuso, The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior (New York: Atria Books, 2018).
 [^14]: Samuel Purchas, Hakluytus Posthumus: or Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others (Glasgow: J. MacLehose and sons, 1905)
 [^15]: Quentin Hiernaux, “History and Epistemology of Plant Behaviour: a Pluralistic View?” Synthese (Dordrecht) 198 (4): 3625–3650 (2021), https://doi.org/10.1007/s11229-019-02303-9.
@@ -197,11 +197,11 @@ Questions of knowledge legitimacy and cultural context are critical to any inves
 Observations in the Vegetation and Propagation of Plants: with Choice Secrets to Make Plants, Flowers and Fruits Larger, More Beautiful, and to Ripen Quicker Than Usual (London: Printed for D. Brown, at the Black Swan without Temple-Bar, 1707).
 [^17]: William Nicholson, Journal of Natural Philosophy, Chemistry, and the Arts (London, 1797).
 [^18]: Charles Webster. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeenth Century.” Isis 57 (1): 5.
-[^19]: Shteir, Ann B. Shteir2019. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. Chicago: University of Chicago Press. https://doi.org/10.7208/9780226150024-008.
+[^19]: Ann B Shteir. “Sensitive, Bashful, and Chaste? Articulating the Mimosa in Science.” In Science in the Marketplace, 169–95. (Chicago: University of Chicago Press, 2019) https://doi.org/10.7208/9780226150024-008.
 [^20]: Histoire de l'Académie royale des sciences, avec les mémoires de mathématique et de physique (Paris: Chez Gabriel Martin, Jean-Baptiste Coignard fils, H. Louis Guerin, 1699).
-[^21]: Stefano Mancuso, The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior (New York: Atria Books, 2018).
-[^22]: Paco Calvo and Natalie Lawrence, Planta Sapiens: the New Science of Plant Intelligence. First American edition (New York: W.W. Norton & Company, 2023).
-[^23]: Londa Schiebinger, Plants and Empire: Colonial Bioprospecting in the Atlantic World (Cambridge: Harvard University Press, 2004), https://doi.org/10.2307/j.ctvk12qdh.
+[^21]: Stefano Mancuso, *The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior* (New York: Atria Books, 2018).
+[^22]: Paco Calvo and Natalie Lawrence, *Planta Sapiens: the New Science of Plant Intelligence. First American edition* (New York: W.W. Norton & Company, 2023).
+[^23]: Londa Schiebinger, *Plants and Empire: Colonial Bioprospecting in the Atlantic World* (Cambridge: Harvard University Press, 2004), https://doi.org/10.2307/j.ctvk12qdh.
 [^24]: Charles Webster, C.5. 1966. “The Recognition of Plant Sensitivity by English Botanists in the Seventeeth Century.” Isis, 57 (1): 5.
 [^25]: “Maria Edgar: The Sensitive Plan.” The Metropolitan Museum of Art, www.metmuseum.org/art/collection/search/10838.
 [^26]: Phillipa Lewis, “The Wardian Case: A History of Plant Transportation,” Royal Botanic Gardens Kew, 23 Sept. 2016. www.kew.org/read-and-watch/the-wardian-case-a-history-of-plant-transportation.
@@ -214,7 +214,7 @@ https://herbariumworld.wordpress.com/2021/06/15/victorian-botany-the-wardian-cas
 [^32]: Percy Bysshe Shelley, “The Sensitive Plant” (London: W. Heinemann, 1911).
 [^33]: Shelley, lines 140–145.
 [^34]: Shelley, lines 153–155.
-[^35]: Theresa M. Kelley, Clandestine Marriage: Botany and Romantic Culture (Baltimore: Johns Hopkins University Press, 2012), 211–212.
+[^35]: Theresa M. Kelley, *Clandestine Marriage: Botany and Romantic Culture* (Baltimore: Johns Hopkins University Press, 2012), 211–212.
 [^36]: Shelley, lines 253–255.
 [^37]: Alexis Harley, “Haraway’s Material-Semiotic Knot: A Learning-Teaching Response for Creative-Critical Times,” A/b: Auto/Biography Studies (2019) 34 (3): 544, https://doi.org/10.1080/08989575.2019.1664139.
 [^38]: Mattias S. Geck, Sol Cristians, Mónica Berger-González, Laura Casu, Michael Heinrich, and Marco Leonti, “Traditional Herbal Medicine in Mesoamerica: Toward Its Evidence Base for Improving Universal Health Coverage,” Frontiers in Pharmacology (2020), 11, https://www.frontiersin.org/articles/10.3389/fphar.2020.01160.
@@ -226,27 +226,26 @@ https://mpns.science.kew.org/mpns-portal/plantDetail?plantId=2373711&query=mimos
 [^40]: H. Ahmad.
 Dennis R.A. Mans, Deeksha Ganga, and Joëlle Kartopawiro, “Meeting of the Minds: Traditional Herbal Medicine in Multiethnic Suriname,” in Aromatic and Medicinal Plants, edited by Hany A. El-Shemy, Ch. 6. (2017), Rijeka: IntechOpen, https://doi.org/10.5772/66509.
 C. Lans, “Ethnomedicines used in Trinidad and Tobago for reproductive problems,” Journal of ethnobiology and ethnomedicine, 3 (2007) 13, https://doi.org/10.1186/1746-4269-3-13.
-[^41]: Laurelyn Whitt, Science, Colonialism, and Indigenous Peoples: The Cultural Politics of Law and Knowledge (Cambridge: Cambridge University Press, 2009).
-[^42]: AnnaTsing, The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (Princeton: Princeton University Press, 2015).
-[^43]: Abena Dove Osseo-Asare, Bitter Roots: The Search for Healing Plants in Africa (Chicago: The University of Chicago Press, 2014); CLEAR, CLEAR Lab Book: A living manual of our values, guidelines, and protocols, V.03 (St. John’s, NL: Civic Laboratory for Environmental Action Research, Memorial University of Newfoundland and Labrador, 2021);
-Jamaica Kincaid, My Garden (Book) (New York: Farrar Straus Giroux, 1999); Jonathan Goldberg-Hiller and Noenoe
-K. Silva, "The Botany of Emergence: Kanaka Ontology and Biocolonialism in Hawai`i," Native American and
-Indigenous Studies 2:2 (2015): 16; 
-Vanessa Wijngaarden, “Relationality,” Showing Theory to Know Theory, Showing Theory Press, 28 Feb. 2022, https://ecampusontario.pressbooks.pub/showingtheory/chapter/relationality/; 
-Carolyn Merchant, The Death of Nature: Women, Ecology, and the Scientific Revolution: A Feminist Reappraisal of the Scientific Revolution (San Francisco: Harper and Row, 1980).
+[^41]: Laurelyn Whitt, *Science, Colonialism, and Indigenous Peoples: The Cultural Politics of Law and Knowledge* (Cambridge: Cambridge University Press, 2009).
+[^42]: Anna Tsing, *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins* (Princeton: Princeton University Press, 2015).
+[^43]: Abena Dove Osseo-Asare, *Bitter Roots: The Search for Healing Plants in Africa* (Chicago: The University of Chicago Press, 2014). 
+CLEAR, *CLEAR Lab Book: A living manual of our values, guidelines, and protocols, V.03* (St. John’s, NL: Civic Laboratory for Environmental Action Research, Memorial University of Newfoundland and Labrador, 2021). 
+Jamaica Kincaid, *My Garden* (New York: Farrar Straus Giroux, 1999).
+Jonathan Goldberg-Hiller and Noenoe K. Silva, "The Botany of Emergence: Kanaka Ontology and Biocolonialism in Hawai`i," Native American and Indigenous Studies 2:2 (2015): 16. 
+Vanessa Wijngaarden, “Relationality,” Showing Theory to Know Theory, Showing Theory Press, 28 Feb. 2022, https://ecampusontario.pressbooks.pub/showingtheory/chapter/relationality/. 
+Carolyn Merchant, *The Death of Nature: Women, Ecology, and the Scientific Revolution: A Feminist Reappraisal of the Scientific Revolution* (San Francisco: Harper and Row, 1980). 
 Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective,” Feminist Studies 14:3 (1988): 575–599.
-[^44]: David B. Livingstone, Putting Science in Its Place: Geographies of Scientific Knowledge (Chicago: University of Chicago Press, 2003), 32.
-Greta LaFleur, The Natural History of Sexuality in Early America Baltimore (Johns Hopkins University Press, 2018),
-doi:10.1353/book.61934.
-Londa Schiebinger, Plants and Empire: Colonial Bioprospecting in the Atlantic World (Cambridge: Harvard University Press, 2004).
+[^44]: David B. Livingstone, *Putting Science in Its Place: Geographies of Scientific Knowledge* (Chicago: University of Chicago Press, 2003), 32. 
+Greta LaFleur, *The Natural History of Sexuality in Early America* (Baltimore: Johns Hopkins University Press, 2018), doi:10.1353/book.61934. 
+Londa Schiebinger, *Plants and Empire: Colonial Bioprospecting in the Atlantic World* (Cambridge: Harvard University Press, 2004).
 [^45]: “Mimosa Pudica,” Earth Medicine Institute,
 https://earthmedicineinstitute.com/more/library/medicinal-plants/mimosa-pudica/. 
-[^46]:Stefano Mancuso, The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior (New York: Atria Books, 2018).
+[^46]:Stefano Mancuso, *The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior* (New York: Atria Books, 2018).
 [^47]: Monica Gagliano, Michael Renton, Martial Depczynski, and Stefano Mancuso, “Experience Teaches Plants to Learn Faster and Forget Slower in Environments Where It Matters,” Oecologia 175 (2014) (1): 63–72,      https://doi.org/10.1007/s00442-013-2873-7.
 [^48]: Monica Gagliano, Michael Renton, Martial Depczynski, and Stefano Mancuso, “Experience Teaches Plants to Learn Faster and Forget Slower in Environments Where It Matters,” Oecologia 175 (2014) (1): 63–72,      https://doi.org/10.1007/s00442-013-2873-7.
 [^49]: Crystal Z. Campbell, “Makahiya (How Do I Tell You I Remember),” World Literature Today 95, no. 2 (2021): 55.
 [^50]: Anza Precy, “The Legend of the Shy Plant: Mimosa Pudica,” Letterpile, February 11, 2023, https://letterpile.com/creative-writing/The-Legend-Of-Makahiya. Though the story has different variations depending on the storyteller, the central story follows a very shy girl and her family. The girl in some versions of the story is named Makayiya, the Tagalog name for Mimosa pudica. Makayiya, while loving and obedient, is incredibly shy and prefers to spend time alone in her garden. One day her parents hear that bandits are quickly approaching the city and their family is in danger. The parents look for Makayiya but cannot find her in time to flee. Instead, the home is overtaken by bandits who tie up the parents and rob the house. The parents are terrified for Makayiya and intensely pray for her safety. After the bandits leave the parents immediately search for their daughter. She is nowhere in the house so the frantic parents search the garden. In the garden they do not find their daughter but a small plant that retreats bashfully when touched. The parents immediately recognize the plant as Makahiya, finding safety in the garden. In some versions of the story, her parents’ tears become the bright flowers that adorn the plant.
 [^51]: Crystal Z. Campbell
 [^52]: Kiran Asher, Mel Y. Chen, Kareem Khubchandani, Eli Nelson, and Banu Subramaniam. 2021. “Cyborgs Unbound: Feminist STS, Interdisicplinarity, and Graduate Education.” Catalyst: Feminism, Theory, Technoscience 7 (1): 27.
-[^53]: Richard Mabey, The Cabaret of Plants: Forty Thousand Years of Plant Life and the Human Imagination. First American edition (New York: W.W. Norton & Company, 2016), 329–339.
+[^53]: Richard Mabey, *The Cabaret of Plants: Forty Thousand Years of Plant Life and the Human Imagination.* First American edition (New York: W.W. Norton & Company, 2016), 329–339.
 
