@@ -84,13 +84,13 @@ fit="0,34,1200,1072">
 Late eighteenth and nineteenth century dedictions of gender by colonial powers were entangled with the treatment of plant matter that traveling botanists were extracting.[^23] The Sensitive Plant, having had European male scientific figures describe it as responsive, was also used as a fashionable motif by European and American artists seeking to draw out associations between the plant’s movement and a shyly genteel, vulnerable affect. After being introduced to Europe in the 16th century, the Sensitive Plant became popular in formal English gardens.[^24] Depictions of white womanhood could be reinforced or challenged through the conflation and projection of social conventions onto the plant. American artist Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and a Sensitive Plant is described as “a symbol of modern womanhood” by the Metropolitan Museum of Art for depicting of “the nurturing power of the female touch.” [^25] As Edgar’s figure reaches out to touch the potted Sensitive Plant, viewers can see the docility in how delicately both plant and woman react to their surroundings. A few decades prior, a late eighteenth century stipple engraving entitled “Sensibility” showed British actor Emma Hamilton reaching toward a potted Sensitive Plant, even as its leaves closed. Both images play on a femininity that balances separation from and adjacency to the natural world— portraying an idealized white and European womanhood that yearns for the delicate.
 <param ve-image 
 url="10.2307_community.18567884-1.jpg"
-label="The Sensitive Plant, by Maria Edgar, 1808" 
+label="The Sensitive Plant, by Maria Edgar, 1808. Source: The Metropolitan Museum of Art." 
 description="Watercolor by Maria Edgar"
 license="Open Access"
 fit="-525,-77,2627,2192">
 <param ve-image 
 url="Screenshot 2023-08-04 at 5.45.58 PM.png"
-label="Emma Hamilton in an attitude towards a mimosa plant, causing it to demonstrate sensibility. Stipple engraving by R. Earlom, 1789, after G. Romney" 
+label="Emma Hamilton in an attitude towards a mimosa plant, causing it to demonstrate sensibility. Stipple engraving by R. Earlom, 1789, after G. Romney. Source: Wellcome Collection." 
 description="engraving by R. Earlom"
 license="CC BY 4.0"
 fit="-307,-16,1540,1243">
