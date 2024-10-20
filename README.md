@@ -129,7 +129,7 @@ It is precisely the Sensitive Plant’s otherworldly capacity to feel that captu
 
 The adjoining map's slider tool reveals the Sensitive Plant’s current distribution overlaid onto its recorded native distribution across Southern and Central America, as well as the Caribbean. A diversity of relationships with the Sensitive Plant occurs across the globe, shaped in no small part by legacies of capitalism, experimentation, and colonialism. Today in Europe, the Sensitive Plant is available as a houseplant and (more rarely) as a supplement, but it has also taken on gendered cultural connotations across diverse regions of the European continent. [^37] Consider that its Swedish name (Kruidje roer me niet) has come to colloquially refer to an overly sensitive or touchy person. Although the Sensitive Plant was never adopted into mainstream medicinal context in Europe, its presence advanced debates in Europe about what it meant to be alive and intelligent. Today, the plant maintains medicinal contexts in which it acts not just for human bodies’, but on human bodies—from commercialization as a supplement, to use in Ayurvedic medicine and in current propositions to expand healthcare coverage through herbalism in Brazil. [^38]
 <param ve-compare curtain url="distribution_map-3.png"
-label="Mimosa Pudica: Native Distribution vs. Current Distribution" 
+label="Mimosa Pudica: Native Distribution vs. Current Distribution from CABI Compendia" 
 description="map by CABI Data"
 license="CC BY-NA-SA 4.0">
 <param ve-compare url="distribution_map-2.png"
